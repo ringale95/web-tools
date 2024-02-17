@@ -1,0 +1,3 @@
+com\mycompany\bookstore\pojo\Book.class
+com\mycompany\bookstore\controller\BookController.class
+com\mycompany\bookstore\controller\ScopeServlet.class
